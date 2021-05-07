@@ -1,7 +1,0 @@
-#include "Bomb.h"
-#include "Boss.h"
-#include "Character.h"
-#include "HP.h"
-#include "Hurting.h"
-#include "Player.h"
-#include "gameobj.h"
