@@ -1,0 +1,7 @@
+#include"PredkoscMaksymalna.h"
+#include"Motorowka.h"
+#include"Rower.h"
+#include"Samochod.h"
+#include"Amfibia.h"
+// #include"PojazdLadowy.h"
+#include "Pojazd.h"
